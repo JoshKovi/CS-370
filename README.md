@@ -6,7 +6,7 @@ AI development Project with Keras and Q-Learning environment
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
 
-    In this project the work in the Qtrain method was the only code created by myself. The rest of the code outisde of this
+In this project the work in the Qtrain method was the only code created by myself. The rest of the code outisde of this
 function was provided by SNHU. This code is the primary Q-learning strategy implemented, though at this point their have been dozens
 of different approaches taken and this is just the iteration that the code is currently on. 
 
